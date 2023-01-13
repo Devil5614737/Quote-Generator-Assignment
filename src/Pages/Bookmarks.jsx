@@ -2,7 +2,7 @@ import React from 'react';
 import { useSelector } from 'react-redux';
 import { Header } from '../Components/Header';
 import { Quote } from '../Components/Quote';
-import '../styles/Bookmarks.css'
+import '../styles/bookmarks.css'
 
 function Bookmarks() {
 const bookmarkState=useSelector(state=>state.bookmarkedQuotes)
