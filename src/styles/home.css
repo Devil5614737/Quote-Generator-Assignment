@@ -53,19 +53,20 @@ margin-bottom: 22px;
     justify-content: center;
 margin-top: 22px;
 align-items: center;
-
+position: relative;
 }
 
 .quote__footer>p{
     font-size: 1.7rem;
     font-weight: bold;
     margin-right: 12px;
-    
 }
 
 #bookmark-icon{
+    position: absolute;
     cursor:pointer;
     display:block;
+    right: 0;
 
 }
 
