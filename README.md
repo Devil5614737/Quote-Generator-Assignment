@@ -1,6 +1,6 @@
 # Quote Generator
 
-This is a quote generator built using the React framework. It uses an API to retrieve quotes from a database and allows users to save quotes to their bookmarks, get random quotes, and get quotes by category.
+This is a quote generator built using the React framework and Redux. It uses an API to retrieve quotes from a database and allows users to save quotes to their bookmarks, get random quotes, and get quotes by category.
 
 ## Features
 - Fetch quotes from an API
